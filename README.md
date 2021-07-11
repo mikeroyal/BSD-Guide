@@ -87,8 +87,6 @@
 
 [Back to the Top](https://github.com/mikeroyal/BSD-Guide/blob/main/README.md#table-of-contents)
 
-## Software Center
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/125211868-67ba5500-e25e-11eb-86eb-440fbaf28b7d.png">
 <br />
@@ -96,9 +94,6 @@
 
 **FreeBSD Software ports. Source: [FreeBSD Software](https://www.freebsdsoftware.org)**
 
-**Note 1: All this software is also available in Linux distributions such as [Debian](https://www.debian.org/), [Linux Mint](https://linuxmint.com/), [elementary OS](https://elementary.io/), [Fedora](https://getfedora.org), [Manjaro Linux](https://manjaro.org/), [EndeavourOS](https://endeavouros.com/) and [Arch Linux](https://archlinux.org/).**
-
-**Note 2: For new users not comfortable with using the command-line or need software not available in the Software Center checkout the Essential Apps section to get started. Also, if you scroll down further you'll see other easy ways to get software applications through Flathub, Snap Store, and AppImages.**
 
 ## Essential Apps(depending on your workflow)
 
