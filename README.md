@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/125211863-612bdd80-e25e-11eb-82f2-6e94a29ba163.png">
   <br />
   BSD Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/125211864-625d0a80-e25e-11eb-9df3-bad16a0d24ef.png">
   <br />
 </p>
 
@@ -67,7 +67,7 @@
 [GhostBSD](https://www.ghostbsd.org/) is a simple desktop-oriented operating system based on FreeBSD with MATE, OpenRC and OS packages for simplicity. GhostBSD has a selection of commonly used software preinstalled and required to start using it to its full potential.
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/125211866-66892800-e25e-11eb-985b-26588de87615.png">
   <br />
 </p>
 
@@ -89,7 +89,10 @@
 
 ## Software Center
 
-<img src="">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/125211868-67ba5500-e25e-11eb-86eb-440fbaf28b7d.png">
+<br />
+</p>
 
 **FreeBSD Software ports. Source: [FreeBSD Software](https://www.freebsdsoftware.org)**
 
